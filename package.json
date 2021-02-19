@@ -24,12 +24,5 @@
     "lite-server": "^2.5.3",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1"
-  },
-  "devDependencies": {
-    "webpack": "^4.32.0",
-    "webpack-cli": "^3.3.2",
-    "webpack-manifest-plugin": "^3.0.0",
-    "webpack-nano": "^1.1.1",
-    "webpack-pwa-manifest": "^4.2.0"
   }
 }
