@@ -2,9 +2,11 @@ const FILES_TO_CACHE = [
     '/',
     '/assets/css/style.css',
     '/index.html',
-    '/favicon.ico',
-    '/dist/manifest.json',
+    '/index.js',
+    '/manifest.json',
     '/dist/bundle.js',
+    '/icons/icon-192x192.png',
+    '/icons/icon-512x512.png'
   ];
   
   const STATIC_CACHE = "static-cache-v1";
