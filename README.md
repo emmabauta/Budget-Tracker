@@ -46,7 +46,7 @@ npm test
 
 
 ### Deployed App Heroku Link
-<>
+https://intense-spire-60570.herokuapp.com/
 
 
 
